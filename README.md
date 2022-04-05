@@ -10,8 +10,8 @@
 
 <p>
   <em>
-    I am a 1st Year undergraduate from <a href="https://www.furg.br/"> <b>Federal university of Rio Grande</a></b> <br>
-    19 years of living a comical life! <br>
+    I am a 2st Year undergraduate from <a href="https://www.furg.br/"> <b>Federal university of Rio Grande</a></b> <br>
+    20 years of living a comical life! <br>
     <b>A Development Enthusiast</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px">
   </em>  
 </p>
