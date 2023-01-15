@@ -18,10 +18,8 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *study* on my **Desktop Computer** 👨‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m currently learning **Web Development** With JavaScript💪.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on ** Python projects**.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I Love learn about coding🌐
+
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m currently learning **Web Development** With React💪.
 
 <br>
 
@@ -32,11 +30,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHuszcza&theme=radical)
 
-<br>
-
-## Languages and Tools:
-
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python-000000?&style=for-the-badge&logo=python&logoColor=yellow"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/-Spyder%20IDE-000000?style=for-the-badge&logo=Spyder-IDE&logoColor=8B0000"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=87CEFA"/>    
 <br>
 
 # Connect with me
